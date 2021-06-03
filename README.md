@@ -1,2 +1,2 @@
 # pandas_library_from_scratch
-Custom Pandas library created from scratch with Python3
+Custom Pandas library written in Python3 from scratch.
